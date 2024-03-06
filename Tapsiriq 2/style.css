@@ -1,0 +1,18 @@
+.circle{
+    width: 85px;
+    height: 85px;
+    border-radius: 85%;
+    box-shadow: 0 0 15px #111;
+    display: inline-block;
+    margin-top: 30px;
+    margin-left: 30px;
+    cursor: pointer;
+}
+#green{background-color: green;}
+#yellow{background-color: yellow;}
+#red{background-color: red;}
+#orange{background-color: orange;}
+#blue{background-color: blue;}
+#purple{background-color: purple;}
+#grey{background-color: grey;}
+#black{background-color: black;}
